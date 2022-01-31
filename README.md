@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fatih-batman
-- 👀 I’m interested in back end development and analysis of algorithm.
-- 🌱 I’m currently learning asp.net mvc
+- 👀 I’m interested in web development and analysis of algorithm.
+- 🌱 I’m currently learning asp.net mvc and react.js
 
-- 📫 How to reach me batman.fatih7@hotmail.com
+- 📫 How to reach me bfatih38@gmail.com
 
 <!---
 fatih-batman/fatih-batman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
