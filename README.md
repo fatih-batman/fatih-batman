@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fatih-batman
 - 👀 I’m interested in web development and analysis of algorithm.
-- 🌱 I’m currently learning asp.net mvc and react.js
-
+- 🌱 I’m currently learning java/spring and react.js
 - 📫 How to reach me bfatih38@gmail.com
 
 <!---
